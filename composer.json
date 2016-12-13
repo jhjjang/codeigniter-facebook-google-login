@@ -1,0 +1,24 @@
+{
+  "name" : "jhjjang/sns_login",
+  "type" : "library",
+  "description": "This is facebook, google login",
+  "keywords": [
+          "sns",
+          "facebook",
+          "google",
+          "login"
+      ],
+  "authors": [
+          {
+              "name":     "jungho jang",
+              "email":    "jhjjang@gmail.com",
+              "homepage": "http://jhjang.tistory.com/"
+          }
+      ],
+  "support": {
+      "email":    "jhjjang@gmail.com"
+  },
+  "require": {
+  },
+  "version": "1.0.0"
+}
